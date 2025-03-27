@@ -8,3 +8,5 @@ Commands
 Tutorials
 
 set Origin Url
+
+Set origin by using SSH
